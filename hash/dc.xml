@@ -4518,7 +4518,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="cfieldsd" cloneof="cfield">
 		<!-- The Sega Direct version shares the same disc as the regular edition (T-47801M) but comes with a bonus CD. -->
-		<description>Chaos Field (Japan) (Sega Direct)</description>
+		<description>Chaos Field (Japan, Sega Direct)</description>
 		<year>2004</year>
 		<publisher>Milestone Inc.</publisher>
 		<info name="serial" value="T-47801M, STRV-002 (Bonus CD)"/>
@@ -4540,7 +4540,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="cfieldsd1" cloneof="cfield">
 		<!-- The Sega Direct version shares the same disc as the regular edition (T-47801M) but comes with a bonus CD. -->
-		<description>Chaos Field (Japan) (Sega Direct Bonus Vol. 2)</description>
+		<description>Chaos Field (Japan, Sega Direct, rev. 1)</description>
 		<year>2004</year>
 		<publisher>Milestone Inc.</publisher>
 		<info name="serial" value="T-47801M, STRV-003 (Bonus CD)"/>
