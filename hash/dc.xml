@@ -539,7 +539,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="4x4evop" cloneof="4x4evo" supported="no">
 		<!-- Apparently dumped via Dreamshell, which is known to give bad dumps. -->
-		<!-- http://hiddenpalace.org/4x4_Evolution_(Jan_9,_2001_prototype)
+		<!-- http://hiddenpalace.org/4x4_Evolution_(Jan_9,_2001_prototype) -->
+		<!--
 		<rom name="4X4_EVOLUTION.gdi" size="327" md5="10bb9e512a8b006fac7579502fb3721c" sha1="4f3fee1465271ab9b0c1eb2e62ae1bc20ab5a3dd"/>
 		<rom name="track01.iso" size="13998080" md5="638c5b2757b5638647e301e112c5d10d" sha1="3c7ef93020ad0f416ed402c67a68d7ffd79034c1"/>
 		<rom name="track02.raw" size="13994400" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f"/>
@@ -10184,7 +10185,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 	</software>
 
 	<software name="dcexprs7" supported="no">
-		<!-- http://redump.org/disc/46371/ http://redump.org/disc/46372/
+		<!-- http://redump.org/disc/46371/ http://redump.org/disc/46372/ -->
+		<!--
 		<rom name="Dreamcast Express Vol. 7 (Japan) (Disc 1) (Special Disk).gdi" size="276" crc="70597c75" md5="862e5967aeba87c1d50475885f68f9ac" sha1="7c169cb6790387e6af75284c493ffbc36df52e70"/>
 		<rom name="Dreamcast Express Vol. 7 (Japan) (Disc 1) (Special Disk) (Track 1).bin" size="1058400" crc="d37ce3f4" md5="dd5345970be016a9c1e5497812a7f03e" sha1="d867163805312f00ac3ebf75a90182dc23faa1e4"/>
 		<rom name="Dreamcast Express Vol. 7 (Japan) (Disc 1) (Special Disk) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
@@ -12090,8 +12092,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="shinevo2" cloneof="evltion2" supported="no">
 		<!--
-		<rom name="track02.raw" size="1735776" md5="8659426a29f58924f5f0458cc720098b" sha1="e12b9ae5ebc79b7da5271bce29df450671ce5d93"/>
 		<rom name="Shinki Sekai Evolution 2 - Tooi Yakusoku v1.002 (1999)(ESP)(NTSC)(JP)[!].gdi" size="87" md5="346fea58ab1a55c577138c5b04319157" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47"/>
+		<rom name="track02.raw" size="1735776" md5="8659426a29f58924f5f0458cc720098b" sha1="e12b9ae5ebc79b7da5271bce29df450671ce5d93"/>
 		<rom name="track01.bin" size="1058400" md5="7713a0ebd50731da0c4ba8d45ab4cfbc" sha1="a04238edd82a18ca22d291f7f2176c948b7c8ede"/>
 		<rom name="track03.bin" size="1185760800" md5="93f70fbcca79c7a47275898399827cb9" sha1="702863d1b492ab95519428085ef5126bbe7343c8"/>
 		-->
@@ -13344,31 +13346,31 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="ssr" cloneof="flgtoflg" supported="no">
 		<!--
-		<rom name="track13.raw" size="42455952" md5="bf84a883b7ee9ca061b688cd54321b22" sha1="ae3333b6756bd81f0688c5360063288e32f7f01e"/>
-		<rom name="track07.raw" size="56313936" md5="82c941f3fb1450bb9ac7565e6e187338" sha1="02647f1c00ec69cfdb1b79cd62670df08c086f98"/>
-		<rom name="track06.raw" size="51224208" md5="8e17d6aa497819372c1011c7680d1702" sha1="7d4b6d39b7a64fa24c8e8e24543f69c82fd0142f"/>
-		<rom name="track17.raw" size="24378480" md5="452b04b80853af6b39be7b1506966af4" sha1="5e5331dfce7db654b3d9e23d51163194536ac5e1"/>
-		<rom name="track08.raw" size="47931408" md5="3d7ccd499d67763943403d12dbac3d28" sha1="d9f65b0cf262cb6fb086230ad305c9c7a23eecaf"/>
-		<rom name="track20.raw" size="10405248" md5="0fa59dc46c654275a7a26c8d627dff86" sha1="f986a62c5f2dc524ca6efb5e703be59bf94aab04"/>
-		<rom name="track12.raw" size="50408064" md5="edcaf90ea51ca75eddc597682f81fdc7" sha1="8e41b53c242853f88a0e0620c12b333e4e799cd2"/>
-		<rom name="track02.raw" size="1949808" md5="c28a4d0b40eee409fe201f3c1c47a0b1" sha1="437a4512cac2d8dc384ab8e7240790925158f1d9"/>
-		<rom name="track19.raw" size="22673280" md5="0f6f83dd5382dc1ddd6de509887604bb" sha1="f674b45666f66909cbef3a980b3a582b74ebc856"/>
-		<rom name="track21.raw" size="8624784" md5="08cc9355558a9da3c9168dc5dbbdaa59" sha1="bd73deced716de3f8c31e858bcbfff0e9bc4c937"/>
-		<rom name="track04.raw" size="1853376" md5="407cb08f947bb5d8a19178217950697e" sha1="b36994ab352f591593d313c0ae813987b39a466b"/>
 		<rom name="Super Speed Racing v1.004 (1999)(Sega)(NTSC)(JP)[!].gdi" size="754" md5="e5b0662fbb275e3ed9a5e332542b247f" sha1="5d73c8d93f6787fda5e22620e7647cba6b0dd747"/>
-		<rom name="track15.raw" size="30190272" md5="cb28b5c19fe7f3819588e4181802dc1c" sha1="f6ea94eb25114fb21030536cfb1dfd3a01a612ff"/>
 		<rom name="track01.bin" size="1620528" md5="c86252c64c89aee5008aa3c5c66ea220" sha1="53ada8b36a7f69152ba8c74ddff58417e038f7f2"/>
-		<rom name="track24.bin" size="397457424" md5="cf663cdc3476078f2d7b013e63a2dec5" sha1="e211b5cd4f0c4426c6f6ea5bd8b834c0af644d95"/>
-		<rom name="track18.raw" size="5651856" md5="843cee56f220a6a2f431cc0e92eb3fe8" sha1="05f45e53233691f1b3b0e4ed3458e061b3325b55"/>
+		<rom name="track02.raw" size="1949808" md5="c28a4d0b40eee409fe201f3c1c47a0b1" sha1="437a4512cac2d8dc384ab8e7240790925158f1d9"/>
+		<rom name="track03.bin" size="165604320" md5="93eacb57feb6f5590d96a4d9e0075112" sha1="322d430e98b3b4e045713a9e96b5859f42754d4e"/>
+		<rom name="track04.raw" size="1853376" md5="407cb08f947bb5d8a19178217950697e" sha1="b36994ab352f591593d313c0ae813987b39a466b"/>
+		<rom name="track05.raw" size="42587664" md5="20927a41063b8eec4938001bef770837" sha1="86cfcb9b14fb4e97090e91288958af18c396c1ee"/>
+		<rom name="track06.raw" size="51224208" md5="8e17d6aa497819372c1011c7680d1702" sha1="7d4b6d39b7a64fa24c8e8e24543f69c82fd0142f"/>
+		<rom name="track07.raw" size="56313936" md5="82c941f3fb1450bb9ac7565e6e187338" sha1="02647f1c00ec69cfdb1b79cd62670df08c086f98"/>
+		<rom name="track08.raw" size="47931408" md5="3d7ccd499d67763943403d12dbac3d28" sha1="d9f65b0cf262cb6fb086230ad305c9c7a23eecaf"/>
+		<rom name="track09.raw" size="36533616" md5="684dcee7e864c0bf466150d7ccbb2413" sha1="607771ceeb515880b3b2521c41f99937e72c7caf"/>
 		<rom name="track10.raw" size="42359520" md5="7052997bb04759ce150e5dc768f5049a" sha1="5ec50d3bd822332c8523508bdbf469a0ac5805ae"/>
 		<rom name="track11.raw" size="51318288" md5="4e09b272c7fee74f8d1e364ead954e90" sha1="d8b5a4fc1fbbc56613fa69cd158d6db9f188d555"/>
+		<rom name="track12.raw" size="50408064" md5="edcaf90ea51ca75eddc597682f81fdc7" sha1="8e41b53c242853f88a0e0620c12b333e4e799cd2"/>
+		<rom name="track13.raw" size="42455952" md5="bf84a883b7ee9ca061b688cd54321b22" sha1="ae3333b6756bd81f0688c5360063288e32f7f01e"/>
 		<rom name="track14.raw" size="46012176" md5="7e9761d7bc433907ec27d561d9ce6f71" sha1="06990a580ae03db57000d35a226799ba6025ed36"/>
-		<rom name="track23.raw" size="6082272" md5="cf869000eec622c1a72a60ac9dbc5f24" sha1="a12cacfcdabfa52f3ae006e93a5abecd45a8c5e8"/>
-		<rom name="track09.raw" size="36533616" md5="684dcee7e864c0bf466150d7ccbb2413" sha1="607771ceeb515880b3b2521c41f99937e72c7caf"/>
+		<rom name="track15.raw" size="30190272" md5="cb28b5c19fe7f3819588e4181802dc1c" sha1="f6ea94eb25114fb21030536cfb1dfd3a01a612ff"/>
 		<rom name="track16.raw" size="30851184" md5="4c10484b9aaa29b4ae897c95ae33c427" sha1="e8b27635c98e7123b45c695f608c6baa6c9ba880"/>
+		<rom name="track17.raw" size="24378480" md5="452b04b80853af6b39be7b1506966af4" sha1="5e5331dfce7db654b3d9e23d51163194536ac5e1"/>
+		<rom name="track18.raw" size="5651856" md5="843cee56f220a6a2f431cc0e92eb3fe8" sha1="05f45e53233691f1b3b0e4ed3458e061b3325b55"/>
+		<rom name="track19.raw" size="22673280" md5="0f6f83dd5382dc1ddd6de509887604bb" sha1="f674b45666f66909cbef3a980b3a582b74ebc856"/>
+		<rom name="track20.raw" size="10405248" md5="0fa59dc46c654275a7a26c8d627dff86" sha1="f986a62c5f2dc524ca6efb5e703be59bf94aab04"/>
+		<rom name="track21.raw" size="8624784" md5="08cc9355558a9da3c9168dc5dbbdaa59" sha1="bd73deced716de3f8c31e858bcbfff0e9bc4c937"/>
 		<rom name="track22.raw" size="14137872" md5="9934886537e619b6ecec0b40b4979ba9" sha1="404f290ae3f3107736cd7c150bbb8cf673baa101"/>
-		<rom name="track05.raw" size="42587664" md5="20927a41063b8eec4938001bef770837" sha1="86cfcb9b14fb4e97090e91288958af18c396c1ee"/>
-		<rom name="track03.bin" size="165604320" md5="93eacb57feb6f5590d96a4d9e0075112" sha1="322d430e98b3b4e045713a9e96b5859f42754d4e"/>
+		<rom name="track23.raw" size="6082272" md5="cf869000eec622c1a72a60ac9dbc5f24" sha1="a12cacfcdabfa52f3ae006e93a5abecd45a8c5e8"/>
+		<rom name="track24.bin" size="397457424" md5="cf663cdc3476078f2d7b013e63a2dec5" sha1="e211b5cd4f0c4426c6f6ea5bd8b834c0af644d95"/>
 		-->
 		<description>Super Speed Racing (Japan)</description>
 		<year>1999</year>
@@ -13799,10 +13801,6 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="yamazaki" supported="no">
 		<!--
-		<rom name="track18.raw" size="1067808" md5="c091da8132c95d11183e344297f2fd14" sha1="8da33e13407a367672f7a5002b6ccb63af8da3ac"/>
-		<rom name="track38.raw" size="1072512" md5="c564ea47c9f8bbed56788459af9f839c" sha1="6b754e652c5c7fa1157c64b4eb78a90ea0655193"/>
-		<rom name="track58.raw" size="2399040" md5="21eb80fbed099bce52b9eb1ee36874ee" sha1="c517341ec5845bd467d7efc77cca235d4711fe59"/>
-		<rom name="track78.raw" size="1067808" md5="066bb02d9ffca8048bef3fe46ab582b0" sha1="a807d14fae33ac99fa3db1aa2d991e8b573e31ab"/>
 		<rom name="Gakkyu wo Yamazaki - Yamazaki Oukoku Dai Fun So! v1.005 (1999)(Sega)(NTSC)(JP)[!].gdi" size="3154" md5="9712251c438080b38614c5dae03089d5" sha1="a14e8969c93711d0e2c5af07b6460c5c9967cddc"/>
 		<rom name="track01.bin" size="1058400" md5="7002e24b43123159dc87c5cff3dd5994" sha1="88c45ca8fa086632054c688e09a81f2cbb4ceb9f"/>
 		<rom name="track02.raw" size="1735776" md5="8659426a29f58924f5f0458cc720098b" sha1="e12b9ae5ebc79b7da5271bce29df450671ce5d93"/>
@@ -13821,6 +13819,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track15.raw" size="1070160" md5="fcffde38bae4a843f2e89ca58ade8179" sha1="5ae8772f787307a3952f44d3aeb3d8d86ac8feca"/>
 		<rom name="track16.raw" size="1077216" md5="341ee52d7dcbea29539040c9f1d64a48" sha1="e152d237bba894f5a948149fa255a8788c90a005"/>
 		<rom name="track17.raw" size="1067808" md5="fc6531f1f80acb5a501b50ab64410b32" sha1="b5442727bf09741add9920e5d497ca98448712e5"/>
+		<rom name="track18.raw" size="1067808" md5="c091da8132c95d11183e344297f2fd14" sha1="8da33e13407a367672f7a5002b6ccb63af8da3ac"/>
 		<rom name="track19.raw" size="1074864" md5="3ee8ab43fe96a06ab2334053163c8ec9" sha1="e571f13da162a1a9dc73367ef0172f665c7a8b78"/>
 		<rom name="track20.raw" size="1086624" md5="3c60dab64991d2ba24168cee22f1d802" sha1="72a90fa550c3dac9b937b4fbdf63eeee610b5fd9"/>
 		<rom name="track21.raw" size="1067808" md5="77f3ed02edce82a351ebde9158221e3b" sha1="a085d6849fd3300cad6c5154f61405636f8c241f"/>
@@ -13840,6 +13839,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track35.raw" size="1067808" md5="cee76b3acaa55b9e1c9f2a4efea6048d" sha1="97808054e82aa3a4c1f0fd780d9b1f4dce5d1304"/>
 		<rom name="track36.raw" size="1074864" md5="65d3e8451e997d2c4f2366b13b60b0a1" sha1="50a696e5ee0dd10317d25f16a69731ea6a269f1a"/>
 		<rom name="track37.raw" size="1070160" md5="89b9f40223caaa5a69476441a144cb1e" sha1="e1f5dcc846e0cdca01b4d73f349f29771ee037be"/>
+		<rom name="track38.raw" size="1072512" md5="c564ea47c9f8bbed56788459af9f839c" sha1="6b754e652c5c7fa1157c64b4eb78a90ea0655193"/>
 		<rom name="track39.raw" size="1072512" md5="e0f1aba35a37ed4066d81ca9122ae499" sha1="df594f71a4cd5d433ca3346a8c1f261e978c9874"/>
 		<rom name="track40.raw" size="1077216" md5="1e8400d0edb1be44d833085a0c187c3e" sha1="44016b9fcc1f4c05fdc689024232c9e908278db9"/>
 		<rom name="track41.raw" size="1070160" md5="809579ad9189d7b878ea110d85bac9fa" sha1="962ef2f773f4c7adb48c4328375050fef227d577"/>
@@ -13859,6 +13859,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track55.raw" size="2177952" md5="63b48460aca8aca3aa5614e7b257eec4" sha1="9391d60e895db6f4584d8b9b10e882433e06e435"/>
 		<rom name="track56.raw" size="1408848" md5="d7ae386c0dc131f470002772d9401c96" sha1="7e5f43205e3241f5a5dbe88f706d09e10fa5cf7a"/>
 		<rom name="track57.raw" size="2638944" md5="04e783b5dd08a927a1f779d7f84d9662" sha1="69cb65236f0d24fbca391f7439b258d318ac797e"/>
+		<rom name="track58.raw" size="2399040" md5="21eb80fbed099bce52b9eb1ee36874ee" sha1="c517341ec5845bd467d7efc77cca235d4711fe59"/>
 		<rom name="track59.raw" size="1606416" md5="14c466274a33435a9e3abc8cad2f99a0" sha1="28b17c9c076a4779814bff054362debcc3ed7732"/>
 		<rom name="track60.raw" size="2067408" md5="a3d97b6e806dcef400d796d168363e13" sha1="f99d1d691ff01e49c33a84ee9a346b8b98834363"/>
 		<rom name="track61.raw" size="2963520" md5="1440825c47965ebef33e3d0d970bad29" sha1="0f5394c35c1e5e8c30d442995ab7b21372845829"/>
@@ -13878,6 +13879,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track75.raw" size="1067808" md5="d9eae4a92bb1ba9af7d64e828c8834b1" sha1="8522a10b4eb4e95fb8ccb1b031895a86562abd78"/>
 		<rom name="track76.raw" size="1065456" md5="6ff8f7a9bebf58e934d87b45ecc1de85" sha1="5ea46be7da38a61181950024ddc8ad303ed91bbd"/>
 		<rom name="track77.raw" size="1093680" md5="e40a4480849a36c057f537311ab557f8" sha1="b4de2100b7139ed4a1161ed0d31c5c1836e419f8"/>
+		<rom name="track78.raw" size="1067808" md5="066bb02d9ffca8048bef3fe46ab582b0" sha1="a807d14fae33ac99fa3db1aa2d991e8b573e31ab"/>
 		<rom name="track79.raw" size="1070160" md5="1d61c6fd99729f71e451f91aaef4c56c" sha1="72f03e3615e3ba34ce3301fb2fa6d450da06d51f"/>
 		<rom name="track80.raw" size="1063104" md5="1f9d73f3f9c6b427d9ccc91aee68c13f" sha1="41475bfe949fbeb4032ead82bcb1fdc331fc6f4e"/>
 		<rom name="track81.raw" size="1072512" md5="6d3bc8ecca9fcd2ca3ad5f16c97ba4ac" sha1="1fb66ff6b81fde0894db13ddc8c5e0f411780e9b"/>
@@ -17936,7 +17938,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 	-->
 
 	<software name="kaenseibo" supported="no">
-		<!-- http://redump.org/disc/5635/ http://redump.org/disc/5636/
+		<!-- http://redump.org/disc/5635/ http://redump.org/disc/5636/ -->
+		<!--
 		<rom name="Kaen Seibo - The Virgin on Megiddo (Japan) (Disc 1).gdi" size="261" crc="59ecc034" md5="609566d99e5b1e5db73c1b2145cc6994" sha1="5b73251d478740619d98e18d2da51fd30d8f4bf1"/>
 		<rom name="Kaen Seibo - The Virgin on Megiddo (Japan) (Disc 1) (Track 1).bin" size="705600" crc="ac43397c" md5="14df3a4f73e2a1d4442e3cef9b1201e2" sha1="589f40204dba7ba320777ab4d933bd61b79ba6e6"/>
 		<rom name="Kaen Seibo - The Virgin on Megiddo (Japan) (Disc 1) (Track 2).bin" size="2001552" crc="022cf226" md5="be8a0f5eadddd70f0d442c80240b9597" sha1="4ff011b201ad056b723062c6de7298135c8618e1"/>
@@ -18015,8 +18018,6 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="kao" supported="no">
 		<!--
-		<rom name="track18.raw" size="12449136" md5="8cb7202deb2124ae2dbfa68593b7d183" sha1="e7e5ce7b0ab6cf529f1a5a0a67a1f3a89b18c90a"/>
-		<rom name="track38.raw" size="13902672" md5="44a207f542241062f13c8d59578aed05" sha1="75d27ba691e49eae837ea8bad3534a5fe1d761ed"/>
 		<rom name="KAO the Kangaroo v1.002 (2000)(Titus)(NTSC)(US)(en-es)[!].gdi" size="1842" md5="983ce4b8203a1a2abbe0477066f726ee" sha1="e5c6e4f8cea7bb4bcd767038bd02242937f0d5e4"/>
 		<rom name="track01.bin" size="1425312" md5="623b23ea5b6641bb1e5fbe5ee545bee0" sha1="c38b641adb8944938a9e601dd80c11829d5bf3c1"/>
 		<rom name="track02.raw" size="1237152" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270"/>
@@ -18035,6 +18036,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track15.raw" size="13055952" md5="40be89267716738b1f38211b787ba795" sha1="506244d72439a8d516f59d57bfaeea8c59f374a8"/>
 		<rom name="track16.raw" size="12451488" md5="37a107c5471a5d9095dfedc47e1dff4b" sha1="97bb897db5595fb89c6c595a2cdfdbe76e05af92"/>
 		<rom name="track17.raw" size="13258224" md5="7995eb5c51529eb19961a17ff1f505df" sha1="fafec4a2c81193edf3e74b44945b0d86a45c9f30"/>
+		<rom name="track18.raw" size="12449136" md5="8cb7202deb2124ae2dbfa68593b7d183" sha1="e7e5ce7b0ab6cf529f1a5a0a67a1f3a89b18c90a"/>
 		<rom name="track19.raw" size="11190816" md5="c4ac1853cc5c68f542425b2375f1429c" sha1="0ae2ef53811c5220b20b67be31150d9a79ba1270"/>
 		<rom name="track20.raw" size="13180608" md5="e3aa8cf0905688420b9847a04171ed52" sha1="682cf0cf236fbf87a016d8d8352ad207720531cd"/>
 		<rom name="track21.raw" size="13902672" md5="211440f97e5c58d88a552baa6f7f5471" sha1="3ffc07527be24f55989c432c89409fc51b509bd6"/>
@@ -18054,6 +18056,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track35.raw" size="10395840" md5="e9b2ca401f30e439e09c314e378523e9" sha1="01e07bd8010be327b29566f4f68fb91037cbd5a5"/>
 		<rom name="track36.raw" size="14812896" md5="ae24259ad323756bd100a1e27f57a1b7" sha1="a3200b4dbe48b7ee0ee476a287f45631d0cf9172"/>
 		<rom name="track37.raw" size="13180608" md5="859071b98c183a3a99a957f985117886" sha1="88ec068ce73b7bf1abfd1d2b4eb706b743229881"/>
+		<rom name="track38.raw" size="13902672" md5="44a207f542241062f13c8d59578aed05" sha1="75d27ba691e49eae837ea8bad3534a5fe1d761ed"/>
 		<rom name="track39.raw" size="12547920" md5="e254d0115ef39a678251a59fc7b0e757" sha1="7fc35e0f34118c24c32926105782ffcbc9f385c4"/>
 		<rom name="track40.raw" size="13897968" md5="4a25dcd98efccb3d293bac3b8bfa8305" sha1="c0d4160e51c0b431211dea65c83fe1ddd4dca410"/>
 		<rom name="track41.raw" size="13053600" md5="4e9a57d2a250e7a88fe4fd293c76faad" sha1="12070e7ccfa4c029247b33dff5f7f3401d0c284e"/>
@@ -18090,8 +18093,6 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 	<software name="kaoe" cloneof="kao" supported="no">
 		<!-- A promo version exists (P830-0197-50 T-22902D-50), it is most likely the same as retail. -->
 		<!--
-		<rom name="track18.raw" size="12449136" md5="8cb7202deb2124ae2dbfa68593b7d183" sha1="e7e5ce7b0ab6cf529f1a5a0a67a1f3a89b18c90a"/>
-		<rom name="track38.raw" size="13902672" md5="44a207f542241062f13c8d59578aed05" sha1="75d27ba691e49eae837ea8bad3534a5fe1d761ed"/>
 		<rom name="KAO the Kangaroo v1.001 (2000)(Titus)(PAL)(M5)[!].gdi" size="1843" md5="780988f87ee0e6d35dbd6bb2849cf560" sha1="c5fa6d85c6f990698b2240f023a6602ceaac48ac"/>
 		<rom name="track01.bin" size="16075920" md5="ca93f351c33f2deeebc473948b94c8cf" sha1="84b049207401b0c669b58f513842d3fe9b2f23f5"/>
 		<rom name="track02.raw" size="13994400" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f"/>
@@ -18110,6 +18111,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track15.raw" size="13055952" md5="40be89267716738b1f38211b787ba795" sha1="506244d72439a8d516f59d57bfaeea8c59f374a8"/>
 		<rom name="track16.raw" size="12451488" md5="37a107c5471a5d9095dfedc47e1dff4b" sha1="97bb897db5595fb89c6c595a2cdfdbe76e05af92"/>
 		<rom name="track17.raw" size="13258224" md5="7995eb5c51529eb19961a17ff1f505df" sha1="fafec4a2c81193edf3e74b44945b0d86a45c9f30"/>
+		<rom name="track18.raw" size="12449136" md5="8cb7202deb2124ae2dbfa68593b7d183" sha1="e7e5ce7b0ab6cf529f1a5a0a67a1f3a89b18c90a"/>
 		<rom name="track19.raw" size="11190816" md5="c4ac1853cc5c68f542425b2375f1429c" sha1="0ae2ef53811c5220b20b67be31150d9a79ba1270"/>
 		<rom name="track20.raw" size="13180608" md5="e3aa8cf0905688420b9847a04171ed52" sha1="682cf0cf236fbf87a016d8d8352ad207720531cd"/>
 		<rom name="track21.raw" size="13902672" md5="211440f97e5c58d88a552baa6f7f5471" sha1="3ffc07527be24f55989c432c89409fc51b509bd6"/>
@@ -18129,6 +18131,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track35.raw" size="10395840" md5="e9b2ca401f30e439e09c314e378523e9" sha1="01e07bd8010be327b29566f4f68fb91037cbd5a5"/>
 		<rom name="track36.raw" size="14812896" md5="ae24259ad323756bd100a1e27f57a1b7" sha1="a3200b4dbe48b7ee0ee476a287f45631d0cf9172"/>
 		<rom name="track37.raw" size="13180608" md5="859071b98c183a3a99a957f985117886" sha1="88ec068ce73b7bf1abfd1d2b4eb706b743229881"/>
+		<rom name="track38.raw" size="13902672" md5="44a207f542241062f13c8d59578aed05" sha1="75d27ba691e49eae837ea8bad3534a5fe1d761ed"/>
 		<rom name="track39.raw" size="12547920" md5="e254d0115ef39a678251a59fc7b0e757" sha1="7fc35e0f34118c24c32926105782ffcbc9f385c4"/>
 		<rom name="track40.raw" size="13897968" md5="4a25dcd98efccb3d293bac3b8bfa8305" sha1="c0d4160e51c0b431211dea65c83fe1ddd4dca410"/>
 		<rom name="track41.raw" size="13053600" md5="4e9a57d2a250e7a88fe4fd293c76faad" sha1="12070e7ccfa4c029247b33dff5f7f3401d0c284e"/>
@@ -18207,7 +18210,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 	</software>
 
 	<software name="kazeuta" supported="no"> <!-- Sega Rating: Suitable for All Ages -->
-		<!-- http://redump.org/disc/45450/ http://redump.org/disc/45451/
+		<!-- http://redump.org/disc/45450/ http://redump.org/disc/45451/ -->
+		<!--
 		<rom name="Kaze no Uta (Japan).gdi" size="165" crc="051378c4" md5="1e5658a9037639904289f7681447837e" sha1="41222608ed9281404189d492d85497711903bba1"/>
 		<rom name="Kaze no Uta (Japan) (Track 1).bin" size="6054048" crc="2eac1a6e" md5="26a949eb6a32ba7e13ba988b2301f93a" sha1="472b47e5933a2e08afe7ba2f9fe3c83e489e3d9b"/>
 		<rom name="Kaze no Uta (Japan) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
