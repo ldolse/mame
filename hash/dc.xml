@@ -22988,6 +22988,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track15.raw" size="2467248" md5="87231690aa471430d3ee89d9a25c4d25" sha1="cf632142d12ff764f849587058c8749feb62dd56"/>
 		<rom name="track16.raw" size="2467248" md5="87231690aa471430d3ee89d9a25c4d25" sha1="cf632142d12ff764f849587058c8749feb62dd56"/>
 		<rom name="track17.raw" size="1084272" md5="25b80ba0a1ce3010a397adfb3c0355f6" sha1="5ed63f5c402600a4847d6be84e2b04f423fdd47b"/>
+		<rom name="track18.raw" size="3528000" md5="c2ce25835ddc6c9936fa87294c150f8e" sha1="5208d3d25f89bb669dd8f1fca291bb9627b9eeb7"/>
 		<rom name="track19.raw" size="1237152" md5="d566b3d8cfab13512e137f2fbf3e0066" sha1="ebe1998b2cccded7413ae27d2e564e7b7eccb9b9"/>
 		<rom name="track20.raw" size="2648352" md5="5ac527092e97362ee385949c20efc52d" sha1="16e018ebb9482d18e974d21b3ede596d316c501b"/>
 		<rom name="track21.raw" size="3001152" md5="1e2dc50b3560e5f5189a925808f4e9f0" sha1="e256f05c10c23f2f28104410c543f3e29a11b399"/>
@@ -23007,6 +23008,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track35.raw" size="3353952" md5="0b9ba48f275eaf617d1e24b8ce53a4e9" sha1="009a69b955ee5ad8a1e57b4f2646c6f31f10ba4e"/>
 		<rom name="track36.raw" size="1942752" md5="6ec34aa74db04241aae8c4afb8ff0ed0" sha1="7099c6e4770eb7e9097421e15988905e9238967a"/>
 		<rom name="track37.raw" size="2119152" md5="2c684efd9bdf54500cfed7db6d6cef37" sha1="d8a1d35589f457d7ab3185c2d01ba4f5cfaae916"/>
+		<rom name="track38.raw" size="1237152" md5="c5165ad0901029ae1ea0ce629ee4c25c" sha1="a57c8bd0842ec516d2d7a9daed2defd39018f529"/>
 		<rom name="track39.raw" size="3353952" md5="f72db0bbd5f5b4cbeb958ced1adfe0f6" sha1="dd0f8a4d458d04e3e1e57da437c8d7875e794bca"/>
 		<rom name="track40.raw" size="1589952" md5="398965ccb2db1aa71caff619c7783677" sha1="6598c732209e8a6ae41daf52597d599cde8d7871"/>
 		<rom name="track41.raw" size="2822400" md5="eb92fb57acaced1500a28583f0f92cc6" sha1="d2d75f79e30702e4d583c6915315cb1f0a72f164"/>
@@ -23026,6 +23028,7 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track55.raw" size="3353952" md5="313ddc0e5ea084eb35f9e70901a338a1" sha1="bafc23cbb073a478059760800a9b0b66d343b31c"/>
 		<rom name="track56.raw" size="3883152" md5="57c0cb3e639fee8122de3acd7de3970c" sha1="add841d5cf1638583c7149344ab53a25e15edf28"/>
 		<rom name="track57.raw" size="3353952" md5="bfe9ccb2697e817591e9b0bf25115f65" sha1="7cf93598570b1376c5ba83f704f0f31201c7dd21"/>
+		<rom name="track58.raw" size="1060752" md5="aefeb9b0e1aa056577193b4db220af14" sha1="bc6b9e87667ab5484625b8d259996503ab84db06"/>
 		<rom name="track59.raw" size="3001152" md5="17cdc398cf30cce3722fbb33dfbfe17a" sha1="0cc958d4e66b33c0db716ca1181512f4c914b0b1"/>
 		<rom name="track60.raw" size="2646000" md5="2e278e73856e97a57e979dbd94ed635d" sha1="e48d1a42d45e44bfdfaba3f47e2ff2b48d8d19d1"/>
 		<rom name="track61.raw" size="2648352" md5="3be2a7a523fe8cc27fb988baa122265c" sha1="843383d71af8fb4135a685d2ed25d4d7f81dd24d"/>
@@ -23057,9 +23060,6 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 		<rom name="track87.raw" size="1942752" md5="66d8fd661aab68e5e88edf498a2acc51" sha1="26751a96a6c213d92d9eb6dd14d8472bec0be596"/>
 		<rom name="track88.raw" size="2469600" md5="3af390fea354f4d7f3538e31e928fde4" sha1="b28bcc529868a3227882fcbfa1ff16bc3770b21f"/>
 		<rom name="track89.bin" size="645845088" md5="4a62c134eba4b5cfd6429a31b850db23" sha1="394b34843f3422abf36bf236e59de28d6217761b"/>
-		<rom name="track18.raw" size="3528000" md5="c2ce25835ddc6c9936fa87294c150f8e" sha1="5208d3d25f89bb669dd8f1fca291bb9627b9eeb7"/>
-		<rom name="track38.raw" size="1237152" md5="c5165ad0901029ae1ea0ce629ee4c25c" sha1="a57c8bd0842ec516d2d7a9daed2defd39018f529"/>
-		<rom name="track58.raw" size="1060752" md5="aefeb9b0e1aa056577193b4db220af14" sha1="bc6b9e87667ab5484625b8d259996503ab84db06"/>
 		-->
 		<description>Nightmare Creatures II (USA)</description>
 		<year>2000</year>
@@ -23181,7 +23181,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 	</software>
 
 	<software name="ncreatr2p1" cloneof="ncreatr2" supported="no">
-		<!-- http://hiddenpalace.org/Nightmare_Creatures_II_(May_9,_2000_prototype)
+		<!-- http://hiddenpalace.org/Nightmare_Creatures_II_(May_9,_2000_prototype) -->
+		<!-- 
 		<rom name="Nightmare Creatures II (With Mike device support) [GD-R] (US).gdi" size="2867" md5="6b41633d96b4db6be971497b9187c281" sha1="056de0f2907cd576c3b73081cbb183f5ff1278c1"/>
 		<rom name="track01.bin" size="4798080" md5="8fed3a23af866679c30dfd781c45da51" sha1="351a280a85496b5d590db9fa3d0e2fa600818d8c"/>
 		<rom name="track02.raw" size="13994400" md5="d21a6f24143e9d549c9c37ec52ef27ce" sha1="7a747805edbf6723d24ba14614f38ade802fb180"/>
@@ -23287,7 +23288,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="ncreatr2p2" cloneof="ncreatr2" supported="no">
 		<!-- Apparently dumped via Dreamshell, which is known to give bad dumps. -->
-		<!-- http://hiddenpalace.org/Nightmare_Creatures_II_(Jul_21,_2000_prototype)
+		<!-- http://hiddenpalace.org/Nightmare_Creatures_II_(Jul_21,_2000_prototype) -->
+		<!-- 
 		<rom name="NIGHTMARE_CREATURES_II.gdi" size="2776" md5="a402c55cbc0c43d83c0129840bce956a" sha1="5952a3f1bb651ae0fc63661e73e4524c4449122e"/>
 		<rom name="track01.iso" size="4177920" md5="46544e838ff9573ca1f65241ac461863" sha1="8da47165d0aeb7ad07502c6af3876ebe660238b1"/>
 		<rom name="track02.raw" size="13994400" md5="d21a6f24143e9d549c9c37ec52ef27ce" sha1="7a747805edbf6723d24ba14614f38ade802fb180"/>
