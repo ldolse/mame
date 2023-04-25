@@ -4987,8 +4987,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 	</software>
 
 	<software name="chuchuj" cloneof="chuchu" supported="no">
-		<!-- The Color Controller Set (HDR-0048) shares the same disc as the regular edition (HDR-0039) but includes a Dreamcast controller.
-
+		<!-- The Color Controller Set (HDR-0048) shares the same disc as the regular edition (HDR-0039) but includes a Dreamcast controller.-->
+        <!--
 		<rom name="Chu-Chu Rocket! v1.003 (1999)(Sega)(NTSC)(JP)[!].gdi" size="596" md5="6e072c919e9b80839c1879e7da259bde" sha1="2ef8be57cd0052acf03bbbe85dddf08ddfdaa990"/>
 		<rom name="track01.bin" size="29237712" md5="47f8f73d4e1678a8eee6630582041c06" sha1="796b8d6bc3e53ffc935c25a095e4cd27945965f6"/>
 		<rom name="track02.raw" size="2036832" md5="fa3d5874ea22db5d7acf16b3b0ad9403" sha1="2677faa301e141757441a450974dbf33565a8801"/>
@@ -21768,7 +21768,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="nba2kp1" cloneof="nba2k" supported="no">
 		<!-- Apparently dumped via Dreamshell, which is known to give bad dumps. -->
-		<!-- http://hiddenpalace.org/NBA_2K_(Sep_22,_1999_prototype)
+		<!-- http://hiddenpalace.org/NBA_2K_(Sep_22,_1999_prototype) -->
+		<!--
 		<rom name="nba_2k_US.gdi" size="143" md5="548a9f487488603c9a51b8e665ffb6df" sha1="98e8eb19f88c85b5e0ac889265518a37d475da06"/>
 		<rom name="track01.iso" size="1241088" md5="73dad9a555e8b87158445ab037b78e32" sha1="46bd65c7918b25c43b12bd7b285bd502f2ec5604"/>
 		<rom name="track02.raw" size="1237152" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270"/>
@@ -21789,7 +21790,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="nba2kp2" cloneof="nba2k" supported="no">
 		<!-- Apparently dumped via Dreamshell, which is known to give bad dumps. -->
-		<!-- http://hiddenpalace.org/NBA_2K_(Dec_21,_1999_prototype)
+		<!-- http://hiddenpalace.org/NBA_2K_(Dec_21,_1999_prototype) -->
+		<!--
 		<rom name="NBA_2K__en_noir.gdi" size="141" md5="c205163b4d1c7102e6390fc6a725cdad" sha1="381ad13f4f9ada24c8b7261587f856eed7d007d0"/>
 		<rom name="track01.iso" size="1241088" md5="3e28694c4f1b82e94b56867971e40b79" sha1="46eec58331cafaeef8b7e14d9afd88bb591d0be2"/>
 		<rom name="track02.raw" size="1237152" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270"/>
@@ -22720,7 +22722,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="blitz2kp" cloneof="blitz2k" supported="no">
 		<!-- Apparently dumped via Dreamshell, which is known to give bad dumps. -->
-		<!-- http://hiddenpalace.org/NFL_Blitz_2000_(Sep_8,_1999_prototype)
+		<!-- http://hiddenpalace.org/NFL_Blitz_2000_(Sep_8,_1999_prototype) -->
+		<!--
 		<rom name="NFL_BLITZ_2000.gdi" size="143" md5="228f485a8a15c189cda5fd151f37c900" sha1="35c208ebd111a1bb4897654b4a7e769597118290"/>
 		<rom name="track01.iso" size="1169408" md5="63dbd497d660fb668a4c45068698149a" sha1="77d9523c68ba3dea00d6ab101bca84c49bfd5099"/>
 		<rom name="track02.raw" size="1166592" md5="edc70aa93642ad915d6ada69327a210a" sha1="87ecc09a84a494fbbdd01ea831aff848b26cb255"/>
@@ -22913,7 +22916,8 @@ P830-****-** : Appears to be a Sega part number for promo discs.
 
 	<software name="nhl2kp3" cloneof="nhl2k" supported="no">
 		<!-- Apparently dumped via Dreamshell, which is known to give bad dumps. -->
-		<!-- http://hiddenpalace.org/NHL_2K_(Mar_21,_2000_prototype)
+		<!-- http://hiddenpalace.org/NHL_2K_(Mar_21,_2000_prototype) -->
+		<!-- 
 		<rom name="NHL_2K.gdi" size="144" md5="9c9aa0192ec51eb6dd14d761226d5252" sha1="b7effd3bbce9b32f4b8588af7a67c578e70a209a"/>
 		<rom name="track01.iso" size="11517952" md5="a57fca1401dec4fdd7c9a56a1f5e261e" sha1="79e66be1b4fc21e9af27f68d20185ba355f42c47"/>
 		<rom name="track02.raw" size="2598960" md5="69c68d5661ad086a52a8a1f261f3b71a" sha1="0d486eb57e24188045bf2298a1c4b08563da794a"/>
